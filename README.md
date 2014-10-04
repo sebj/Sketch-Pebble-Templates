@@ -2,7 +2,7 @@
 
 Templates to make designing [Pebble](http://getpebble.com) apps in [Sketch](http://bohemiancoding.com/sketch/) a bit easier. Includes symbols for a number of UI components, and both the stainless steel and matte black Pebble Steel bodies are included.
 
-Move anything you want to use to the appropriate Sketch templates folder (`File` > `New From Template` > `Reveal in Finder` will open your Templates folder)
+Move anything you want to use to the appropriate Sketch templates folder.
 
 [![Gittip](http://img.shields.io/gratipay/sebj.svg)](https://gratipay.com/sebj/)
 
