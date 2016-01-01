@@ -1,10 +1,10 @@
-##Sketch Pebble Templates
+##(Old) Sketch Pebble Templates
 
-Templates to make designing [Pebble](http://getpebble.com) apps in [Sketch](http://bohemiancoding.com/sketch/) a bit easier. Includes symbols for a number of UI components, and both the stainless steel and matte black Pebble Steel bodies are included.
+**These templates have since become out of date after Pebble OS ~3.0 changed many UI components and after the release of the colour Pebble Time and Pebble Time Round.**
 
-Uses the [Orange Kid pixel font](https://github.com/sebj/Sketch-Pebble-Templates.git).
+Templates to make designing [Pebble](http://getpebble.com) apps in [Sketch](http://bohemiancoding.com/sketch/) a bit easier. Includes symbols for a number of UI components.
 
-Move anything you want to use to the appropriate Sketch templates folder.
+Uses the [Orange Kid pixel font](http://www.dafont.com/orange-kid.font).
 
 ##License
 
